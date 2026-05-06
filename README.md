@@ -1,14 +1,14 @@
 # Isaac Fernández Martino
 
-**Desarrollador Front-end @ Suntropy** · React · TypeScript · Ingeniero de los Recursos Energéticos
+**Full-Stack Developer · Solar-Tech** · React · TypeScript · Ingeniero de los Recursos Energéticos
 
 ---
 
 ## Sobre mí
 
-Desarrollador front-end con cerca de cinco años de experiencia construyendo software para el sector solar fotovoltaico. Mi formación como Ingeniero de los Recursos Energéticos me permite trabajar la frontera entre ingeniería y producto: traducir cálculos solares, modelos de producción y flujos comerciales del mundo real a interfaces que los equipos de instalación usan a diario.
+Desarrollador full-stack con cerca de cinco años de experiencia construyendo software para el sector solar fotovoltaico. Mi formación como Ingeniero de los Recursos Energéticos me permite trabajar la frontera entre ingeniería y producto: traducir cálculos solares, modelos de producción y flujos comerciales del mundo real a herramientas que los equipos de instalación usan a diario.
 
-Mi foco principal es el front-end con React y TypeScript, y trabajo de forma habitual sobre arquitecturas full-stack en TypeScript (NestJS + React), incorporando componentes 3D, geoespaciales y de cálculo numérico cuando el dominio lo requiere.
+Trabajo sobre arquitecturas full-stack en TypeScript (NestJS + React), con foco en producto, integraciones entre sistemas y componentes geoespaciales y de cálculo numérico cuando el dominio lo requiere.
 
 ---
 
@@ -19,7 +19,6 @@ Mi foco principal es el front-end con React y TypeScript, y trabajo de forma hab
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 
 **Back-end**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -51,7 +50,7 @@ OpenAI API · Spec-driven development
 
 - **Aplicaciones SaaS multitenant** — interfaces para plataformas con autenticación JWT, gestión multi-cliente y permisos granulares.
 - **Software para el sector solar fotovoltaico** — cálculo y visualización de producción, gestión de presupuestos, generación documental y diseño de instalaciones.
-- **Visualización 3D y geoespacial** — editores de instalaciones solares con Three.js, integración con mapas, ortofotos y datos GeoTIFF.
+- **Visualización geoespacial** — integración con mapas, ortofotos y datos GeoTIFF para planificación de instalaciones solares.
 - **Integraciones con CRMs y automatización de flujos** — desarrollos específicos para HubSpot y otros CRMs, orquestación de webhooks y flujos automatizados con Node-RED para sincronización entre sistemas.
 - **Integraciones con APIs del sector energético** — Datadis, PVGIS y servicios de firma electrónica.
 - **Plantillas y generación documental** — sistemas configurables de presupuestos y reporting con almacenamiento documental.
@@ -63,7 +62,7 @@ OpenAI API · Spec-driven development
 
 **Desarrollador Front-end** — Suntropy · *ago. 2021 – actualidad*
 
-Plataforma SaaS de productividad para empresas instaladoras de energía solar. Desarrollo del front-end principal de la aplicación (estudios solares, gestión de inventario, plantillas de presupuestos), de un editor 3D de instalaciones solares y de calculadoras solares whitelabel embebibles. Trabajo sobre una arquitectura de microservicios en TypeScript en colaboración estrecha con back-end y producto.
+Plataforma SaaS de productividad para empresas instaladoras de energía solar. Desarrollo de la aplicación principal (estudios solares, gestión de inventario, plantillas de presupuestos) y de calculadoras solares whitelabel embebibles. Trabajo sobre una arquitectura de microservicios en TypeScript, con desarrollos específicos en back-end e integraciones con CRMs y servicios externos del sector energético.
 
 ---
 
